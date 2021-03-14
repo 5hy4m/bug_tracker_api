@@ -1,4 +1,5 @@
 bug_tracker_api/_pycache_/*
+bug_tracker/migrations/*
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
